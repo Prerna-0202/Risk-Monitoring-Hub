@@ -5,17 +5,16 @@ A Simple dashboard showing all the users currently in the monitoring queue who n
 
 ## Getting Started
 
-First, run the development server:
+1. Run npm run dev to start the development server.
+2. Visit http://localhost:3000 to view application.
 
-npm run dev
- or
-yarn dev
- or
-pnpm dev 
- or
-bun dev
 
 ## Tech Stack
 
 - Next.js
 - TailWind CSS
+
+### Deployed Link : https://risk-monitoring-hub-6s7c-prerna-0202.vercel.app/
+ 
+
+
