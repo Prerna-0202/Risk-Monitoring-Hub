@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Profile from "../assets/ProfileImage.svg";
+import Profile from "../assets/profileImage.svg";
 import { useState } from "react";
 import hamburger from "../assets/hamburger.svg";
 import close from "../assets/Close.svg";
