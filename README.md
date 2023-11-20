@@ -1,3 +1,8 @@
+## About 
+
+A Simple dashboard showing all the users currently in the monitoring queue who need to be reviewed for risky behaviour.
+
+
 ## Getting Started
 
 First, run the development server:
