@@ -42,10 +42,6 @@ const page = () => {
                                 <span className="ml-4">Login with Google</span>
                             </button>
 
-                            <div className="text-sm flex justify-between items-center mt-3">
-                                <p>If you don't have an account...</p>
-                                <button className="py-2 px-5 ml-3 bg-white border rounded-xl hover:scale-110 duration-300 border-blue-400  ">Register</button>
-                            </div>
                         </div>
 
                         <div className="w-1/2 md:block hidden mt-10 mb-10">

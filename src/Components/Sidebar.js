@@ -13,7 +13,7 @@ const Sidebar = () => {
       <div
         className={`md:hidden ${
           open ? "hidden" : "block"
-        } bg-white z-50 p-2 fixed top-0 right-4 rounded-sm`}
+        } bg-white z-50 p-2 fixed top-5 right-4 rounded-sm`}
         onClick={openSideBar}
       >
         <Image src={hamburger} width={24} alt="open" />
