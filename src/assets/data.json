@@ -1,0 +1,120 @@
+[
+    {
+      "user": "Sam Altman",
+      "risk": "Medium",
+      "triggerBy": "IP Change",
+      "queueTime": "4 days",
+      "date": "12 Oct, 2023",
+      "review": true,
+      "reviewDate": "23 Aug,2023",
+      "email": "samaltman123@gmail.com",
+      "isPending": true
+    },
+    {
+      "user": "Sameer Choubey",
+      "risk": "High",
+      "triggerBy": "FIFO",
+      "queueTime": "4 days",
+      "date": "12 Oct, 2023",
+      "review": false,
+      "reviewDate": "",
+      "email": "sameerchoubey123@gmail.com",
+      "isPending": true
+
+    },
+    {
+      "user": "Adarsh Panikkar",
+      "risk": "Low",
+      "triggerBy": "Unusual Activity",
+      "queueTime": "5 days",
+      "date": "12 Oct, 2023",
+      "review": false,
+      "reviewDate": "",
+      "email": "adarsh@onjuno.com",
+      "isPending": true
+
+    },
+    {
+      "user": "Pratik Shetty",
+      "risk": "High",
+      "triggerBy": "Account Dormancy",
+      "queueTime": "5 days",
+      "date": "12 Oct, 2023",
+      "reviewDate": "12 Sep,2023",
+      "review": true,
+      "email": "pratik3@gmail.com",
+      "isPending": true
+
+    },
+    {
+      "user": "Elon Musk",
+      "risk": "Low",
+      "triggerBy": "Flagged Keywords",
+      "queueTime": "5 days",
+      "date": "12 Oct, 2023",
+      "review": true,
+      "reviewDate": "12 Sep,2023",
+      "email": "elon@twitterceo.com",
+      "isPending": true
+
+    },
+    {
+      "user": "Trina Kundu",
+      "risk": "Low",
+      "triggerBy": "Flagged Keywords",
+      "queueTime": "5 days",
+      "date": "12 Oct, 2023",
+      "review": true,
+      "reviewDate": "12 Sep,2023",
+      "email": "trina@onjuno.com",
+      "isPending": true
+
+    },
+    {
+      "user": "Prerna Sharma",
+      "risk": "Low",
+      "triggerBy": "Unusual Activity",
+      "queueTime": "3 days",
+      "date": "10 Oct, 2023",
+      "review": true,
+      "reviewDate": "12 Nov,2023",
+      "email": "prerna@onjuno.com",
+      "isPending": true
+
+    },
+    {
+      "user": "Pulkit Gupta",
+      "risk": "High",
+      "triggerBy": "Account Dormancy",
+      "queueTime": "5 days",
+      "date": "10 Sep, 2023",
+      "review": false,
+      "reviewDate": "12 Nov,2023",
+      "email": "pulkit@gupta.com",
+      "isPending": false
+    },
+    {
+      "user": "Ritika Singhania",
+      "risk": "Low",
+      "triggerBy": "IP Change",
+      "queueTime": "2 days",
+      "date": "15 Sep, 2023",
+      "review": true,
+      "reviewDate": "10 Nov,2023",
+      "email": "ritika@singhania.com",
+      "isPending": true
+
+    },
+    {
+      "user": "Harshita Negi",
+      "risk": "Medium",
+      "triggerBy": "FIFO",
+      "queueTime": "10 days",
+      "date": "12 Sep, 2023",
+      "review": true,
+      "reviewDate": "10 Nov,2023",
+      "email": "harshita@negi.com",
+      "isPending": true
+
+    }
+  ]
